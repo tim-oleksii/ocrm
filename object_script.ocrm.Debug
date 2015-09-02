@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/CBlankImageCreator.o
+./debug/CHostWidget.o
+./debug/NErrorHandling.o
+./debug/CVideoCapturingThread.o
+./debug/CVideoCapturer.o
+./debug/CVideoCaptureData.o
+./debug/CRangeMeterConfig.o
+./debug/CImageProcessingThread.o
+./debug/CImageProcessingResult.o
+./debug/NImageConversion.o
+./debug/moc_CHostWidget.o
+./debug/moc_CVideoCapturingThread.o
+./debug/moc_CImageProcessingThread.o
+);

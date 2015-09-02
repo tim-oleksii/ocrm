@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/CBlankImageCreator.o
+./release/CHostWidget.o
+./release/NErrorHandling.o
+./release/CVideoCapturingThread.o
+./release/CVideoCapturer.o
+./release/CVideoCaptureData.o
+./release/CRangeMeterConfig.o
+./release/CImageProcessingThread.o
+./release/CImageProcessingResult.o
+./release/NImageConversion.o
+./release/moc_CHostWidget.o
+./release/moc_CVideoCapturingThread.o
+./release/moc_CImageProcessingThread.o
+);
